@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+
+int main (void) {
+
+ printf("id; 1\n sigla; RN\n nome; Rio Grande do Norte  regiao;\n sigla; n\n nome; nordeste\n\n");
+
+ printf("id; 2\n siigla; BA\n nome; Bahia\n regiao\n sigla; N\n nome; nordeste\n\n");
+
+  printf("id; 3\n siigla; AC\n nome; Acre\n regiao\n sigla; N\n nome; norte\n\n");
+
+  printf("id; 4\n siigla; AM\n nome; Amazonas\n regiao\n sigla; N\n nome; norte\n\n");
+
+  printf("id; 5\n siigla; TO\n nome; Tocantins\n regiao\n sigla; N\n nome; norte\n\n");
+
+ printf("id; 6\n siigla; MT\n nome; Mato Grosso\n regiao\n sigla; CO\n nome; Centro Oeste \n\n");
+
+ printf("id; 7\n siigla; RS\n nome; Rio Grande do Sul\n regiao\n sigla; s\n nome; sul\n\n");
+
+ printf("id; 8\n siigla; PR\n nome; Parana\n regiao\n sigla; S\n nome; sul\n\n");
+
+ printf("id; 9\n siigla; RJ\n nome; Rio de janeiro\n regiao\n sigla; S\n nome; Suldeste\n\n");
+
+  printf("id; 10\n siigla; MG\n nome; Minas Gerais\n regiao\n sigla; S\n nome; Suldeste\n\n");
+
+   printf("id; 11\n siigla; SP\n nome; Sao Paulo\n regiao\n sigla; S\n nome; Suldeste\n\n");
+
+   printf("Regiao   Qts.estados\n norte        3\n nordeste     2\n centro oeste 1\n suldeste     3\n sul          2");
+}
